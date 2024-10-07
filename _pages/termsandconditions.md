@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Terms of Use
-include_in_header: true
+title: Terms and Conditions
+include_in_header: false
 ---
 
 **Last updated**  
