@@ -13,12 +13,10 @@ The Company is the controller of the information provided or collected in the we
 
 Through this Policy, the Company regards personal information of the users as important and informs them of the purpose and method of the Company's using the personal information provided by the users and the measures taken by the Company for protection of that personal information.
 
- 
-
 This Policy will be effective on the 1th day of 10, 2024 and, in case of modification thereof, the Company will make public notice of it through posting it on the bulletin board of Company's website or individual notice through sending mails, fax or e-mails).
 
 
-1. Information to be collected and method of collection
+### 1. Information to be collected and method of collection
 (1)  Personal information items to be collected
 
 Personal information items to be collected by the Company are as follows:
@@ -55,7 +53,7 @@ The Company collects the information of users in a way of the followings:
 
 
 
-2. Use of collected information
+### 2. Use of collected information
 The Company uses the collected information of users for the following purposes:
 
 - Member management and identification
@@ -82,7 +80,7 @@ The Company agrees that it will obtain a consent from the users, if the Company 
 
  
 
-3. Disclosure of collected information
+### 3. Disclosure of collected information
 Except for the following cases, the Company will not disclose personal information with a 3rd party:
 
 - when the Company disclosing the information with its affiliates, partners and service providers:
@@ -105,7 +103,7 @@ if required to be disclosed by the investigative agencies for detecting crimes i
 
  
 
-4. Cookies, Beacons and Similar Technologies
+### 4. Cookies, Beacons and Similar Technologies
 The Company may collect collective and impersonal information through 'cookies' or 'web beacons'.
 
 Cookies are very small text files to be sent to the browser of the users by the server used for operation of the websites of the Company and will be stored in hard-disks of the users' computer.
@@ -126,8 +124,9 @@ The items of cookies to be collected by the Company and the purpose of such coll
 
 The users have an option for cookie installation. So, they may either allow all cookies by setting options in the web browser, make each cookie checked whenever it is saved, or refuses all cookies to be saved: Provided that, if the user rejects the installation of cookies, it may be difficult for that user to use the parts of services provided by the Company.
 
+ 
 
-5. User’s right
+### 5. User’s right
 The users or their legal representatives, as main agents of the information, may exercise the following rights regarding the collection, use and sharing of personal information by the Company:
 
 - exercise right to access to personal information;
@@ -143,7 +142,7 @@ If, in order to exercise the above rights, you, as an user, use the menu of 'ame
 
  
 
-6. Security
+### 6. Security
 The Company regards the security of personal information of users as very important. The company constructs the following security measures to protect the users' personal information from any unauthorized access, release, use or modification
 
 - Encryption of personal information
@@ -164,7 +163,7 @@ The Company regards the security of personal information of users as very import
 
  
 
-7. Protection of personal information of children
+### 7. Protection of personal information of children
 In principle, the Company does not collect any information from the children under 13 or equivalent minimum age as prescribed in the laws in relevant jurisdiction. The website, products and services of the Company are the ones to be provided to ordinary people, in principle. The website or application of the Company has a function to do age limit so that children cannot use it and the Company does not intentionally collect any personal information from children through that function.
 
 However, if the Company collects any personal information from children under 13 or equivalent minimum age as prescribed in the laws in relevant jurisdiction for the services for unavoidable reason, the Company will go through the additional procedure of the followings for protecting that personal information of children:
@@ -181,17 +180,12 @@ verify, to the extent that efforts are reasonably made, whether they are childre
 
  
 
-Modification of Privacy Protection Policy
+### 8. Modification of Privacy Protection Policy
 The Company has the right to amend or modify this Policy from time to time and, in such case, the Company will make a public notice of it through the bulletin board of its website (or through individual notice such as written document, fax or e-mail) and obtain consent from the users if required by relevant laws.
 
  
 
-9. Others
--
-
- 
-
-10. Contact information of Company
+### 9. Contact information of Company
 Please use one of the following methods to contact the Company should you have any queries in respect to this policy or wish to update your information:
 
 - Company name : joonhwan
