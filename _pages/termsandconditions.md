@@ -9,7 +9,7 @@ include_in_header: false
 
 ## Terms and Conditions
 ### Article 1 (Purpose)
-The purpose of these Terms and Conditions is to define the rights, obligations, and responsibilities of the cyber mall and the users in relation to the use of internet-related services (hereinafter referred to as "Services") provided by the cyber mall "Korehalal Trip" operated by ICU Company (e-commerce business operator).
+The purpose of these Terms and Conditions is to define the rights, obligations, and responsibilities of the cyber mall and the users in relation to the use of internet-related services (hereinafter referred to as "Services") provided by the Time with Me.
 
 
 
@@ -18,7 +18,7 @@ These Terms and Conditions also apply to electronic commerce using PC communicat
 
 
 ### Article 2 (Definitions)
-1. "Mall" refers to a virtual business place set up by ICU Company to provide goods or services (hereinafter referred to as "Goods, etc.") to users using computers or other information and communication equipment. It is also used to refer to the business operator that runs the cyber mall.
+1. "Mall" refers to a virtual business place set up by Time with Me to provide goods or services (hereinafter referred to as "Goods, etc.") to users using computers or other information and communication equipment. It is also used to refer to the business operator that runs the cyber mall.
 
 2. "User" refers to both members and non-members who access the "Mall" and receive the services provided by the "Mall" in accordance with these Terms and Conditions.
 
