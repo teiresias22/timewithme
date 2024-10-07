@@ -1,201 +1,311 @@
 ---
 layout: page
 title: Terms of Use
-include_in_header: false
+include_in_header: true
 ---
 
 **Last updated**  
 2024.10.01
 
-This Policy (the "Policy") explains the way of treatment of the information which is provided or collected in the web sites on which this Policy is posted. In addition the Policy also explains the information which is provided or collected in the course of using the applications of the Company which exist in the websites or platforms of other companies.
+## Terms and Conditions
+### Article 1 (Purpose)
+The purpose of these Terms and Conditions is to define the rights, obligations, and responsibilities of the cyber mall and the users in relation to the use of internet-related services (hereinafter referred to as "Services") provided by the cyber mall "Korehalal Trip" operated by ICU Company (e-commerce business operator).
 
-The Company is the controller of the information provided or collected in the websites on which this Policy is posted and in the course of using the applications of the Company which exist in the websites or platforms of other companies.
 
-Through this Policy, the Company regards personal information of the users as important and informs them of the purpose and method of the Company's using the personal information provided by the users and the measures taken by the Company for protection of that personal information.
 
-This Policy will be effective on the 1th day of 10, 2024 and, in case of modification thereof, the Company will make public notice of it through posting it on the bulletin board of Company's website or individual notice through sending mails, fax or e-mails).
+These Terms and Conditions also apply to electronic commerce using PC communication, wireless, etc., as long as it does not contradict its nature.
 
 
-### 1. Information to be collected and method of collection
-(1)  Personal information items to be collected
 
-Personal information items to be collected by the Company are as follows:
+### Article 2 (Definitions)
+1. "Mall" refers to a virtual business place set up by ICU Company to provide goods or services (hereinafter referred to as "Goods, etc.") to users using computers or other information and communication equipment. It is also used to refer to the business operator that runs the cyber mall.
 
-- Information provided by the users
+2. "User" refers to both members and non-members who access the "Mall" and receive the services provided by the "Mall" in accordance with these Terms and Conditions.
 
-The Company may collect the information directly provided by the users.
+3. "Member" refers to a person who has registered as a member of the "Mall" and can continuously use the services provided by the "Mall."
 
-|Title of service|Items to be collected (examples)|
-|------|---|
-|Internet <br> membership <br> service | ∘ Name, email address, ID, telephone number, address, national information, encoded identification information (CI), identification information of overlapped membership (DI) <br> ∘ For minors, information of legal representatives (name, birth date, CI and DI of legal representatives) |
-|Online <br> payment <br> service	| ∘ Name, address, telephone number, and email address <br> ∘ Payment information including account number and card number <br> ∘ Delivery information including delivery address, name and contact information of recipient <br> ∘ Information of bid, purchase and sales |
-|Social <br> network <br> service	| ∘ Name, email address, ID, telephone number, address, national information, address list (acquaintance) <br> ∘ Information of place of taking pictures and date of creation of files <br> ∘ Information of service use of members such as the type of contents watched or used by members, the persons interacting or sharing contents with members, frequencies and period of activities of members |
+4. "Non-member" refers to a person who uses the services provided by the "Mall" without registering as a member.
 
-- Information collected while the users use services
 
-Besides of information directly provided by the users, the Company may collect information in the course that the users use the service provided by the Company.
 
+### Article 3 (Specification, Explanation, and Amendment of Terms and Conditions)
+1. The "Mall" shall post the contents of these Terms and Conditions, company name, representative's name, business office address (including the address where consumer complaints can be handled), telephone number, fax number, email address, business registration number, telecommunication sales report number, and personal information manager on the initial service screen (front page) of the 00 cyber mall so that users can easily find them. However, the contents of the Terms and Conditions can be made available to users through a connected screen.
 
-|Lists|Items to be collected(examples)|
-|------|---|
-| Equipment <br> information | ∘ Equipment identifier, operation system, hardware version, equipment set-up, type and set-up of browser, use information of website or application and telephone number |
-| Log information | ∘ IP address, log data, use time, search word input by users, internet protocol address, cookie and web beacon |
-| Location information | ∘ Information of device location including specific geographical location detected through GPS , Bluetooth or Wifi (limited to the region permissible under the laws) |
-| Other information	| ∘ Preference, advertisement environment, visited pages regarding service use of users |
+2. Before users agree to these Terms and Conditions, the "Mall" must provide a separate connected screen or pop-up screen to ensure users can understand important contents such as withdrawal of subscription, delivery responsibilities, and refund conditions.
 
-(2)  Method of collection
+3. The "Mall" may amend these Terms and Conditions within the scope of not violating relevant laws such as the Act on the Consumer Protection in Electronic Commerce, the Act on the Regulation of Terms and Conditions, the Basic Act on Electronic Documents and Electronic Transactions, the Electronic Financial Transactions Act, the Electronic Signature Act, the Act on Promotion of Information and Communications Network Utilization and Information Protection, the Door-to-Door Sales Act, and the Basic Consumer Act.
 
-The Company collects the information of users in a way of the followings:
+4. When the "Mall" amends the Terms and Conditions, it shall specify the application date and reasons for the amendment, and post the current and amended Terms and Conditions on the initial screen of the mall from 7 days before the application date until the day before the application date. However, if the amendment is disadvantageous to users, it shall be notified at least 30 days in advance. In this case, the "Mall" shall clearly compare the contents before and after the amendment so that users can easily understand.
 
-- webpage, written form, fax, telephone calling, e-mailing, tools for collection of created information
+5. When the "Mall" amends the Terms and Conditions, the amended Terms and Conditions apply only to contracts concluded after the application date, and the previous Terms and Conditions apply to contracts already concluded before the application date. However, if a user who has already concluded a contract wishes to be subject to the amended Terms and Conditions, the user can notify the "Mall" within the notice period of the amendment under Paragraph 3, and obtain the consent of the "Mall" to apply the amended Terms and Conditions.
 
-- provided by partner companies
+6. Matters not specified in these Terms and Conditions and interpretations of these Terms and Conditions shall follow the Act on the Consumer Protection in Electronic Commerce, the Act on the Regulation of Terms and Conditions, the Consumer Protection Guidelines in Electronic Commerce, etc. determined by the Fair Trade Commission, and related laws or commercial practices.
 
 
 
-### 2. Use of collected information
-The Company uses the collected information of users for the following purposes:
+### Article 4 (Provision and Change of Services)
+1. The "Mall" performs the following tasks:
 
-- Member management and identification
+  1. Providing information on goods or services and concluding purchase contracts.
 
-- To detect and deter unauthorized or fraudulent use of or abuse of the Service
+  2. Delivering goods or services for which purchase contracts have been concluded.
 
-- Performance of contract, service fee payment and service fee settlement regarding provision of services demanded by the users
+  3. Other tasks determined by the "Mall."
 
-- Improvement of existing services and development of new services
+2. If the "Mall" changes the content of the goods or services to be provided in future contracts due to the sellout of goods or services or changes in technical specifications, it shall immediately notify the content of the changed goods or services and the date of provision by posting it where the current goods or services are displayed.
 
-- Making notice of function of company sites or applications or matters on policy change
+3. In the event of changes to the content of the services the "Mall" has agreed to provide with the user due to sellout of goods or changes in technical specifications, the "Mall" shall immediately notify the user of the reason using an address that can be contacted.
 
-- To help you connect with other users you already know and, with your permission, allow other users to connect with you
+4. In the case of the preceding paragraph, the "Mall" shall compensate users for any damages caused. However, this does not apply if the "Mall" proves that there was no intention or negligence.
 
-- To make statistics on member’s service usage, to provide services and place advertisements based on statistical characteristics
 
-- To provide information on promotional events as well as opportunity to participate
 
-- To comply with applicable laws or legal obligation
+### Article 5 (Suspension of Services)
+1. The "Mall" may temporarily suspend the provision of services in the event of maintenance, replacement, breakdown of information and communication equipment like computers, or interruption of communication.
 
-- Use of information with prior consent of the users (for example, utilization of marketing advertisement)
+2. The "Mall" shall compensate users or third parties for damages caused by the temporary suspension of service provision for the reasons in Paragraph 1. However, this does not apply if the "Mall" proves that there was no intention or negligence.
 
-The Company agrees that it will obtain a consent from the users, if the Company desires to use the information other than those expressly stated in this Policy.
+3. In case the service cannot be provided due to the conversion of business items, abandonment of business, integration between companies, etc., the "Mall" shall notify users in the manner specified in Article 8 and compensate consumers according to the conditions initially presented by the "Mall." However, if the "Mall" does not notify the compensation standards, etc., users' mileage or reserve funds shall be paid to users in kind or cash equivalent to the currency value used in the "Mall."
 
 
 
-### 3. Disclosure of collected information
-Except for the following cases, the Company will not disclose personal information with a 3rd party:
+### Article 6 (Membership Registration)
+1. Users apply for membership by filling out member information according to the registration form set by the "Mall" and expressing their consent to these Terms and Conditions.
 
-- when the Company disclosing the information with its affiliates, partners and service providers:
+2. The "Mall" registers users who apply for membership as described in Paragraph 1, unless they fall under the following categories:
 
-    - When the Company's affiliates, partners and service providers carry out services such as bill payment, execution of orders, products delivery and dispute resolution (including disputes on payment and delivery) for and on behalf of the Company
+  1. If the applicant has previously lost membership under Paragraph 3 of Article 7 of these Terms and Conditions. However, exceptions are made if the applicant has been approved for re-registration by the "Mall" after three years from losing membership under Paragraph 3 of Article 7.
 
-- when the users consent to disclose in advance:
+  2. If there are false, omitted, or incorrect entries in the registration content.
 
-    - when the user selects to be provided by the information of products and services of certain companies by sharing his or her personal information with those companies
+  3. If registering as a member is deemed to cause significant technical difficulties for the "Mall."
 
-    - when the user selects to allow his or her personal information to be shared with the sites or platform of other companies such as social networking sites
+3. The time of the establishment of the membership contract is when the "Mall's" acceptance reaches the member.
 
-other cases where the user gives prior consent for sharing his or her personal information
+4. If there are changes to the registered information, the member must notify the "Mall" of the changes within a considerable period through member information modification methods.
 
-when disclosure is required by the laws:
 
-if required to be disclosed by the laws and regulations; or
 
-if required to be disclosed by the investigative agencies for detecting crimes in accordance with the procedure and method as prescribed in the laws and regulations
+### Article 7 (Withdrawal and Disqualification of Membership)
+1. Members can request withdrawal from the "Mall" at any time, and the "Mall" shall immediately process the withdrawal.
 
+2. If a member falls under the following reasons, the "Mall" may restrict or suspend membership:
 
+  1. If false information was registered at the time of application.
 
-### 4. Cookies, Beacons and Similar Technologies
-The Company may collect collective and impersonal information through 'cookies' or 'web beacons'.
+  2. If the member fails to pay the due amount for the goods purchased or other debts related to the use of the "Mall."
 
-Cookies are very small text files to be sent to the browser of the users by the server used for operation of the websites of the Company and will be stored in hard-disks of the users' computer.
+  3. If the member threatens the order of electronic commerce by interfering with the use of the "Mall" by others or stealing information.
 
-Web beacon is a small quantity of code which exists on the websites and e-mails. By using web beacons, we may know whether an user has interacted with certain webs or the contents of email.
+  4. If the member uses the "Mall" to conduct acts prohibited by laws or these Terms and Conditions or against public order and morals.
 
-These functions are used for evaluating, improving services and setting-up users' experiences so that much improved services can be provided by the Company to the users
+3. After restricting or suspending membership, if the same act is repeated more than twice or the reason is not corrected within 30 days, the "Mall" may terminate the membership.
 
-The items of cookies to be collected by the Company and the purpose of such collection are as follows:
+4. If the "Mall" terminates membership, it shall notify the member and delete the member registration. In this case, the member shall be given at least 30 days to explain before the registration is deleted.
 
-|Category|Reasons for using cookies and additional information|
-|------|---|
-| strictly <br> necessary <br> cookies | This cookie is a kind of indispensable cookie for the users to use the functions of the website of the Company. Unless the users allow this cookie, the services such as booking service or electronic bill payment cannot be provided. This cookie does not collect any information which may be used for marketing or memorizing the sites visited by the users <br> (Examples of necessary cookies) <br> ∘ Memorize the information entered in an order form while searching other pages during web browser session <br>  ∘ For the page of products and check-out, memorize ordered services <br> ∘ Check whether login is made on website <br> ∘ Check whether the users are connected with correct services of the website of the Company while the Company changes the way of operating its website <br> ∘ Connect the users with certain application or server of the services |
-| performance <br> cookies | This cookie collects information about how the users use the website of the Company such as the information of the pages which are visited by the users most. This data helps the Company to optimize its website so that the users can search that website more comfortably. This cookie does not collect any information about who the users are. Any and all the information collected by this cookie will be processed collectively and the anonymity will be guaranteed. <br> (Examples of performance cookies) <br> ∘ Web analysis: provide statistical data on the ways of using website <br> ∘ Advertisement response fee: check the effect of advertisement of the Company <br> ∘ Tracing affiliated companies; one of visitors of the Company provides anonymously feedback to the affiliated companies <br> ∘ Management of error: measure an error which may occur so as to give a help for improving website <br> ∘ Design testing: test other design of the website of Company |
-| functionality <br> cookies | This cookie is used for memorizing the set-ups so that the Company provides services and improves visits of users. Any information collected by this cookie does not identify the users individually. <br> (Examples of functionality cookies) <br> ∘ Memorize set-ups applied such as layout, text size, basic set-up and colors <br> ∘ Memorize when the customer respond to a survey conducted by the Company |
-| targeting <br> cookies or <br> advertising	| cookies	This cookie is connected with the services provided by a 3rd party such as the buttons of 'good' and 'share'. The 3rd party provides these services by recognizing that the users visits the website of the Company. <br> (Examples of targeting cookies or advertising cookies) <br> ∘ carry out PR to the users as targets in other websites by connecting through social networks and these networks use the information of users' visit <br> ∘ provide the information of users' visit to ad agencies so that they can suggest an ad which may attract the interest of the users |
 
 
-The users have an option for cookie installation. So, they may either allow all cookies by setting options in the web browser, make each cookie checked whenever it is saved, or refuses all cookies to be saved: Provided that, if the user rejects the installation of cookies, it may be difficult for that user to use the parts of services provided by the Company.
+### Article 8 (Notification to Members)
+1. When the "Mall" notifies members, it can be done to the email address designated by the member in advance with the "Mall."
 
+2. For unspecified members, the "Mall" can substitute individual notifications by posting on the "Mall" bulletin board for more than one week. However, individual notifications must be made for matters that have a significant impact on the member's own transactions.
 
 
-### 5. User’s right
-The users or their legal representatives, as main agents of the information, may exercise the following rights regarding the collection, use and sharing of personal information by the Company:
 
-- exercise right to access to personal information;
+### Article 9 (Purchase Application and Consent to Provide Personal Information)
+1. Users apply for purchases on the "Mall" by the following or similar methods, and the "Mall" shall make the following details easily understandable for users:
 
-- make corrections or deletion;
+  1. Search and select goods, etc.
 
-- make temporary suspension of treatment of personal information; or
+  2. Enter the recipient's name, address, phone number, email address (or mobile phone number), etc.
 
-- request the withdrawal of their consent provided before
+  3. Confirm contents related to the costs borne by the user such as the contents of the terms and conditions, services with withdrawal rights restrictions, and delivery fees and installation costs.
 
+  4. Indicate agreement to these Terms and Conditions and confirm or reject the items in Subparagraph 3 (e.g., mouse click).
 
-If, in order to exercise the above rights, you, as an user, use the menu of 'amendment of member information of webpage or contact the Company by sending a document or e-mails, or using telephone to the company(or person in charge of management of personal information or a deputy), the Company will take measures without delay: Provided that the Company may reject the request of you only to the extent that there exists either proper cause as prescribed in the laws or equivalent cause.
+  5. Purchase application for goods, etc. and confirm or consent to the "Mall's" confirmation.
 
+  6. Select the payment method.
 
+2. If the "Mall" needs to provide the purchaser's personal information to a third party, it must notify the purchaser of 1) the recipient of the personal information, 2) the purpose of using the recipient's personal information, 3) the items of personal information provided, and 4) the period of retention and use of the recipient's personal information and obtain consent. (The same applies when there are changes to the consented matters.)
 
-### 6. Security
-The Company regards the security of personal information of users as very important. The company constructs the following security measures to protect the users' personal information from any unauthorized access, release, use or modification
+3. If the "Mall" delegates the handling of the purchaser's personal information to a third party, it must notify the purchaser of 1) the person to whom personal information is delegated, and 2) the content of the delegated work and obtain consent. (The same applies when there are changes to the consented matters.) However, if it is necessary for the fulfillment of the service contract and related to the convenience of the purchaser, the "Mall" can notify through the privacy policy by the method stipulated in the Act on Promotion of Information and Communications Network Utilization and Information Protection, etc., without going through the notification and consent procedure.
 
-- Encryption of personal information
 
-    - Transmit users' personal information by using encrypted communication zone
 
-    - Store important information such as passwords after encrypting it
+### Article 10 (Establishment of Contract)
+1. The "Mall" may not accept the purchase application in the following cases. However, in the case of concluding a contract with a minor, the "Mall" must notify that the contract can be canceled by the minor or their legal representative if the consent of the legal representative is not obtained:
 
-- Countermeasures against hacking
+  1. If there is false, omitted, or incorrect information in the application.
 
-    - Install a system in the zone the external access to which is controlled so as to prevent leakage or damage of users' personal information by hacking or computer virus
+  2. If minors purchase goods and services prohibited by the Juvenile Protection Act, such as tobacco and alcohol.
 
-- Establish and execute internal management plan
+  3. If accepting the purchase application is deemed to cause significant technical difficulties for the "Mall."
 
-- Install and operate access control system
+2. The contract is deemed to be established when the "Mall's" acceptance reaches the user in the form of a receipt confirmation notice as stipulated in Paragraph 1 of Article 12.
 
-- Take measures to prevent forging or alteration of access record
+3. The "Mall's" acceptance shall include confirmation of the user's purchase application, availability of sale, and information on correction or cancellation of the purchase application.
 
 
 
-### 7. Protection of personal information of children
-In principle, the Company does not collect any information from the children under 13 or equivalent minimum age as prescribed in the laws in relevant jurisdiction. The website, products and services of the Company are the ones to be provided to ordinary people, in principle. The website or application of the Company has a function to do age limit so that children cannot use it and the Company does not intentionally collect any personal information from children through that function.
+### Article 11 (Payment Methods)
+The payment methods for goods or services purchased on the "Mall" can be made using any of the following available methods. The "Mall" shall not charge any additional fees for the payment method chosen by the user.
 
-However, if the Company collects any personal information from children under 13 or equivalent minimum age as prescribed in the laws in relevant jurisdiction for the services for unavoidable reason, the Company will go through the additional procedure of the followings for protecting that personal information of children:
 
-verify, to the extent that efforts are reasonably made, whether they are children of the age at which consent from their guardian is required and the consenting person is an authorized one.
 
-- obtain consent from the parents or guardian of children so as to collect personal information of children or directly send the information of products and services of the Company
+1. Various account transfers such as phone banking, internet banking, and mail banking
 
-- give the parents or guardian of children a notice of Company's policy of privacy protection for children including the items, purpose and sharing of personal information collected
+2. Payments using various cards such as prepaid cards, debit cards, and credit cards
 
-- grant to legal representatives of children a right to access to personal information of that children/correction or deletion of personal information/temporary suspension of treatment of personal information/ and request for withdrawal of their consent provided before
+3. Online deposit without a bankbook
 
-- limit the amount of personal information exceeding those necessary for participation in online activities
+4. Payment through electronic money
 
+5. Payment upon receipt
 
+6. Payment using points provided by the "Mall" such as mileage
 
-### 8. Modification of Privacy Protection Policy
-The Company has the right to amend or modify this Policy from time to time and, in such case, the Company will make a public notice of it through the bulletin board of its website (or through individual notice such as written document, fax or e-mail) and obtain consent from the users if required by relevant laws.
+7. Payment using gift certificates that the "Mall" has contracted or recognized
 
+8. Other electronic payment methods
 
 
-### 9. Contact information of Company
-Please use one of the following methods to contact the Company should you have any queries in respect to this policy or wish to update your information:
 
-- Company name : joonhwan
+### Article 12 (Receipt Confirmation Notice and Change or Cancellation of Purchase Application)
+1. When there is a purchase application from a user, the "Mall" shall send a receipt confirmation notice to the user.
 
-  Address :
+2. Upon receiving the receipt confirmation notice, the user can request changes or cancellations of the purchase application immediately if there are discrepancies in their intention. The "Mall" shall process the request promptly before shipping. However, if payment has already been made, the regulations on withdrawal of subscription, etc., in Article 15 shall apply.
 
-  Tel.: +82 10 2077 9525
 
-  E-mail: teiresias1987@gmail.com
 
+### Article 13 (Supply of Goods, etc.)
+1. Unless there is a separate agreement with the user regarding the supply period of the goods, etc., the "Mall" shall take necessary measures such as order production and packaging to ship the goods within 7 days from the date of the user's subscription. However, if the "Mall" has already received all or part of the payment for the goods, it shall take necessary measures within 3 business days from the date of receiving the payment. In this case, the "Mall" shall take appropriate measures to allow users to check the supply process and progress of the goods, etc.
 
+2. The "Mall" shall specify the shipping method, the bearer of shipping costs for each method, and the delivery period for the goods purchased by the user. If the "Mall" exceeds the agreed delivery period, it shall compensate the user for the damages caused. However, this does not apply if the "Mall" proves that there was no intention or negligence.
 
-The latest update date: October 01, 2024.
+
+
+### Article 14 (Refund)
+If the "Mall" cannot deliver or provide the goods, etc., due to reasons such as being out of stock, it shall notify the user immediately and, if payment for the goods, etc., was received in advance, it shall refund or take necessary measures for the refund within 3 business days from the date of payment.
+
+
+
+### Article 15 (Withdrawal of Subscription, etc.)
+1. Users who have entered into a contract with the "Mall" for the purchase of goods, etc., may withdraw their subscription within 7 days from the date they received a written document regarding the contract (or from the date the goods were received or the supply of goods commenced if the supply is later than the receipt of the written document), in accordance with Article 13(2) of the Act on Consumer Protection in Electronic Commerce, etc. However, if otherwise specified in the Act on Consumer Protection in Electronic Commerce, etc., the provisions of the Act shall apply.
+
+2. Users who have received the goods can return or exchange them in the following cases:
+
+  1. If the goods are lost or damaged due to reasons attributable to the user (except if the packaging was damaged to check the contents of the goods).
+
+  2. If the value of the goods, etc., has significantly decreased due to the user's use or partial consumption.
+
+  3. If the value of the goods, etc., has significantly decreased to the extent that resale is difficult due to the passage of time.
+
+  4. If the packaging of the original goods, etc., is damaged when it can be reproduced with the same performance.
+
+3. In cases of Subparagraphs 2 to 4 of Paragraph 2, if the "Mall" has not clearly specified that the withdrawal of subscription, etc., is restricted in a place easily noticeable by consumers or provided trial products, the user's withdrawal of subscription, etc., shall not be restricted.
+
+4. Notwithstanding Paragraphs 1 and 2, if the content of the goods, etc., is different from the displayed or advertised content or if it is executed differently from the contract, the user can withdraw their subscription within 3 months from the date they received the goods, etc., or within 30 days from the date they became aware or could have become aware of the fact.
+
+
+
+### Article 16 (Effects of Withdrawal of Subscription, etc.)
+1. When the "Mall" receives the returned goods, etc., it shall refund the payment for the goods, etc., within 3 business days. In this case, if the "Mall" delays the refund to the user, it shall pay the delayed interest calculated by multiplying the delay period by the delayed interest rate stipulated in Article 21-2 of the Enforcement Decree of the Act on Consumer Protection in Electronic Commerce, etc.
+
+2. When the "Mall" refunds the payment, if the user paid for the goods, etc., with a credit card or electronic money, it shall immediately request the business operator who provided the payment method to stop or cancel the claim for the goods, etc.
+
+3. In the case of withdrawal of subscription, etc., the user shall bear the cost of returning the supplied goods, etc. The "Mall" shall not claim any penalty or damages from the user for withdrawal of subscription, etc. However, if the withdrawal of subscription is due to the content of the goods, etc., being different from the displayed or advertised content or being executed differently from the contract, the "Mall" shall bear the cost of returning the goods, etc.
+
+4. If the user was responsible for the shipping cost when receiving the goods, the "Mall" shall clearly indicate who will bear the cost of withdrawal of subscription so that the user can easily understand.
+
+
+
+### Article 17 (Protection of Personal Information)
+1. The "Mall" shall collect the minimum necessary personal information within the scope required for the provision of services.
+
+2. The "Mall" shall not collect information necessary for fulfilling purchase contracts in advance during membership registration. However, this does not apply if it is necessary to verify the user's identity before fulfilling legal obligations under relevant laws and only the minimum specific personal information is collected.
+
+3. When the "Mall" collects and uses personal information, it shall notify the user of the purpose and obtain their consent.
+
+4. The "Mall" shall not use the collected personal information for purposes other than the intended purpose, and if a new use purpose arises or it is provided to a third party, it shall notify the user of the purpose and obtain their consent at the stage of use or provision. However, exceptions are made if otherwise specified by relevant laws.
+
+5. If the "Mall" needs to obtain the user's consent in accordance with Paragraphs 2 and 3, it shall specify or notify the user's identity (affiliation, name, phone number, other contact information), the purpose of collecting and using information, and the details regarding the provision of information to third parties (recipient, purpose of provision, and content of information to be provided) in advance as stipulated in Article 22(2) of the Act on Promotion of Information and Communications Network Utilization and Information Protection, etc., and the user can withdraw this consent at any time.
+
+6. Users can request to view and correct errors in their personal information held by the "Mall" at any time, and the "Mall" is obliged to take necessary measures without delay. If the user requests correction of an error, the "Mall" shall not use the relevant personal information until the error is corrected.
+
+7. The "Mall" shall minimize the number of personnel handling personal information and shall be fully responsible for any damages to users caused by loss, theft, leakage, provision without consent, or alteration of the user's personal information, including credit card and bank account information.
+
+8. When the purpose of collecting or receiving personal information is achieved, the "Mall" or the third party who received the personal information shall immediately destroy the information.
+
+9. The "Mall" shall not set the consent box for the collection, use, and provision of personal information to be pre-selected. Additionally, it shall clearly specify the services that will be restricted if the user refuses to consent to the collection, use, and provision of personal information, and shall not restrict or refuse to provide services such as membership registration due to the user's refusal to consent to non-essential information.
+
+
+
+### Article 18 (Obligations of the "Mall")
+1. The "Mall" shall not engage in acts prohibited by laws or these Terms and Conditions or against public order and morals and shall do its best to provide continuous and stable goods and services as stipulated in these Terms and Conditions.
+
+2. The "Mall" shall have a security system to protect users' personal information (including credit information) to ensure that users can use internet services safely.
+
+3. The "Mall" shall be responsible for compensating users for damages caused by unfair display or advertisement as stipulated in Article 3 of the Act on Fair Labeling and Advertising regarding goods or services.
+
+4. The "Mall" shall not send commercial emails for profit-making purposes that users do not want.
+
+
+
+### Article 19 (Responsibilities of Members regarding ID and Password)
+1. Members are responsible for managing their ID and password except in cases stipulated in Article 17.
+
+2. Members shall not allow third parties to use their ID and password.
+
+3. If a member realizes that their ID and password are stolen or being used by a third party, they shall immediately notify the "Mall" and follow the "Mall's" guidance.
+
+
+
+### Article 20 (User Obligations)
+Users shall not engage in the following activities:
+
+1. Registering false information during application or change.
+
+2. Stealing others' information.
+
+3. Changing information posted on the "Mall."
+
+4. Transmitting or posting information (such as computer programs) other than the information specified by the "Mall."
+
+5. Infringing on the intellectual property rights of the "Mall" or third parties.
+
+6. Damaging the reputation of the "Mall" or third parties or interfering with their business.
+
+7. Disclosing or posting obscene or violent messages, images, voices, or other information against public order and morals on the "Mall."
+
+
+
+### Article 21 (Relationship between Linked "Mall" and Subordinate "Mall")
+1. In cases where a higher-level "Mall" and a lower-level "Mall" are connected by a hyperlink (e.g., the target of the hyperlink includes text, images, and moving images), the former is referred to as the linked "Mall" (website), and the latter is referred to as the subordinate "Mall" (website).
+
+2. If the linked "Mall" specifies on its initial screen or a pop-up screen at the time of connection that it does not guarantee the transactions conducted independently by the subordinate "Mall" for goods, etc. provided by the subordinate "Mall," it does not bear the responsibility for such transactions.
+
+
+
+### Article 22 (Attribution of Copyright and Restrictions on Use)
+1. The copyright and other intellectual property rights for works created by the "Mall" belong to the "Mall."
+
+2. Users shall not use the information obtained by using the "Mall" for commercial purposes or allow third parties to use it by reproducing, transmitting, publishing, distributing, broadcasting, or other means without the prior consent of the "Mall."
+
+3. If the "Mall" uses the copyrighted works attributed to users according to the agreement, it shall notify the relevant user.
+
+
+
+### Article 23 (Dispute Resolution)
+1. The "Mall" shall establish and operate a damage compensation handling organization to reflect legitimate opinions or complaints raised by users and compensate for the damage.
+
+2. The "Mall" shall prioritize handling complaints and opinions submitted by users. However, if prompt processing is difficult, the "Mall" shall immediately notify the user of the reasons and the processing schedule.
+
+3. In the case of disputes arising from electronic commerce transactions between the "Mall" and users, if a user requests damage relief, it can follow the mediation of the dispute resolution institution commissioned by the Fair Trade Commission or the head of a city or province.
+
+
+
+### Article 24 (Jurisdiction and Governing Law)
+1. Lawsuits related to electronic commerce disputes between the "Mall" and users shall be based on the user's address at the time of filing, and if there is no address, the district court with jurisdiction over the user's place of residence. However, if the user's address or place of residence is unclear at the time of filing or if the user is a foreign resident, it shall be submitted to the competent court under the Civil Procedure Act.
+
+2. The laws of Korea shall apply to electronic commerce lawsuits filed between the "Mall" and users.
