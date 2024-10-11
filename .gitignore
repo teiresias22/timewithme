@@ -2,5 +2,3 @@
 .sass-cache
 _site
 Gemfile.lock
-
-/.well-known/assetlinks.json
