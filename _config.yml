@@ -64,11 +64,11 @@ features                                  :
     description                           : You can find the item you want through various sorting methods!
     fontawesome_icon_name                 : table-list
 
-  - title                                 : [Planned] New post notification
+  - title                                 : Planned - New post notification
     description                           : We'll send you a notification when a new post is created on your calendar! This feature will be updated soon.
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : []Planned] Add subscription
+  - title                                 : Planned - Add subscription
     description                           : If 3 or more people want to use it, you need to subscribe. This feature will be updated soon.
     fontawesome_icon_name                 : info-circle
 
