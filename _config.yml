@@ -36,40 +36,40 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Fill your calendar with people
-    description                           : Fill your calendar with photos of people and each day
+  - title                                 : Share your calendar with others
+    description                           : Create a calendar full of gorgeous images with people around you!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : On Android and iPhone
+    description                           : It is available for both Android and iPhone devices.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Communicate together
+    description                           : Let's communicate with each other by leaving hearts and comments on the schedule!
+    fontawesome_icon_name                 : comment
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Record the location
+    description                           : Record and share locations with images!
+    fontawesome_icon_name                 : location-dot
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Various D-day notations
+    description                           : Through various D-Day recording methods, you can count the days that fit your schedule!
+    fontawesome_icon_name                 : calendar-check
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Various categorization
+    description                           : You can create various categories to record your schedules!
+    fontawesome_icon_name                 : tag
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Different sorting methods
+    description                           : You can find the item you want through various sorting methods!
+    fontawesome_icon_name                 : table-list
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : [Planned] New post notification
+    description                           : We'll send you a notification when a new post is created on your calendar! This feature will be updated soon.
+    fontawesome_icon_name                 : info-circle
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : []Planned] Add subscription
+    description                           : If 3 or more people want to use it, you need to subscribe. This feature will be updated soon.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
