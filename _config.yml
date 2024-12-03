@@ -50,7 +50,7 @@ features                                  :
 
   - title                                 : Record the location
     description                           : Record and share locations with images!
-    fontawesome_icon_name                 : location-dot
+    fontawesome_icon_name                 : map
 
   - title                                 : Various D-day notations
     description                           : Through various D-Day recording methods, you can count the days that fit your schedule!
@@ -62,7 +62,7 @@ features                                  :
 
   - title                                 : Different sorting methods
     description                           : You can find the item you want through various sorting methods!
-    fontawesome_icon_name                 : table-list
+    fontawesome_icon_name                 : clipboard-list
 
   - title                                 : Planned - New post notification
     description                           : We'll send you a notification when a new post is created on your calendar! This feature will be updated soon.
