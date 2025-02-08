@@ -5,14 +5,23 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+We'll keep you updated.
 
 <br>
 
 ### `Latest`
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+## Version 1.0.2
+#### What's New
+- Distinguish between weekdays and weekends.
+- Supports Korean
+- We will send you a notification when a new calendar post is registered or a comment is added to a post.
 
+<br>
+
+________
+<br>
+
+### Version 1.0.1
 #### What's New
 - On the day the image was registered, you can check today with a blue border.
 - Users who have not made regular payments can only register one image.
@@ -20,11 +29,8 @@ That wow robin one and gosh audibly darn that variously less across softly awake
 
 <br>
 
-________
-<br>
-
 ### `Initial Release`
-# **Version 1.0.0**
+### **Version 1.0.0**
 Time with Me was officially released on the Play Store and App Store on December 7th.
 
 <br>
